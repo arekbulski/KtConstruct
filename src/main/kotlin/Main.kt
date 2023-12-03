@@ -1,5 +1,8 @@
 // Copyright 2023 by Arkadiusz Bulski <arek.bulski@gmail.com> under MIT License
 
+// Project is EXPERIMENTAL and ON HOLD due to issues with annotation system.
+// Feel free to look but there is no point using it for anything yet.
+
 //-------------------------------------------------------------------------------------------------
 //                                          INTERNAL
 // TODO: Add the building system.
