@@ -2,7 +2,9 @@
 
 //-------------------------------------------------------------------------------------------------
 //                                          INTERNAL
+// TODO: Add the building system.
 // TODO: Read https://www.baeldung.com/java-bytebuffer
+// TODO: Read documentation of klaxon JSON serialization library, look for clues.
 
 //-------------------------------------------------------------------------------------------------
 //                                          INTERNAL
