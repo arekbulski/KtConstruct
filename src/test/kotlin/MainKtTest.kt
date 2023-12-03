@@ -1,3 +1,5 @@
+// Copyright 2023 by Arkadiusz Bulski <arek.bulski@gmail.com> under MIT License
+
 import org.junit.jupiter.api.Test
 import kotlin.test.assertFails
 

@@ -1,3 +1,5 @@
+// Copyright 2023 by Arkadiusz Bulski <arek.bulski@gmail.com> under MIT License
+
 //-------------------------------------------------------------------------------------------------
 //                                          INTERNAL
 // TODO: Read https://www.baeldung.com/java-bytebuffer
